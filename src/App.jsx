@@ -51,28 +51,25 @@ const BAND = {
   },
   partial: {
     diagnosis: "Your firm has momentum but lacks a defensible market position. Without a defined Category of One, differentiation depends on how well any individual explains it on a given day.",
-    pathTitle: "Recommended Next Step: Category of One Intensive",
-    pathBody: "The Category of One Intensive is an AI-driven tool to guide you and your team as you craft a distinct and clear Category of One — establishing what makes your firm unique and valued in your marketplace — and create a mini brand storybook.",
-    links: [{ label: "Access the Category of One Intensive", url: "https://docs.google.com/document/d/1rJQNcY-BbtyvRdoGEJY0NUkkMugatWgOOEwXWR6cYkA/copy" }],
+    pathTitle: "Recommended Next Step: Brand Narrative Audit",
+    pathBody: "A Brand Narrative Audit identifies where your story is breaking down and gives you a clear foundation to build from — so differentiation stops living in people's heads and starts working across every conversation.",
+    links: [],
     ctaText: "Differentiation that lives in people's heads instead of documented architecture will not survive growth.",
-    ctaLabel: "Begin the Category of One Intensive",
-    ctaUrl: "https://docs.google.com/document/d/1rJQNcY-BbtyvRdoGEJY0NUkkMugatWgOOEwXWR6cYkA/copy"
+    ctaLabel: "Book a Brand Narrative Audit",
+    ctaUrl: "https://www.brandtelling.com/brand-narrative-audit"
   },
   erosion: {
     diagnosis: "Your brand presents well externally but is losing integrity internally. What leadership knows, the broader team cannot reliably articulate. That gap widens as you scale.",
-    pathTitle: "Recommended Next Steps",
-    pathBody: null,
-    links: [
-      { label: "1. Category of One Intensive — Craft a distinct Category of One and create a mini brand storybook", url: "https://docs.google.com/document/d/1rJQNcY-BbtyvRdoGEJY0NUkkMugatWgOOEwXWR6cYkA/copy" },
-      { label: "2. Brand Management Subscription — Install a Story Operating System with ongoing governance", url: "https://docs.google.com/document/d/1SKFZcYS1pC9E_XIZ9us20YrWM6F3sys-VSO9Z002pYY/copy" }
-    ],
-    ctaText: "Alignment restores clarity. Governance protects it. Both steps are available to you now.",
-    ctaLabel: "Book a Brand Architecture Review",
-    ctaUrl: "https://calendly.com/arthurgermain/brand-management-review"
+    pathTitle: "Recommended Next Step: Brand Narrative Audit",
+    pathBody: "A Brand Narrative Audit surfaces where internal clarity is breaking down before it becomes a market-facing problem — and gives your team a shared story they can actually use.",
+    links: [],
+    ctaText: "Alignment restores clarity. A Brand Narrative Audit is where that work begins.",
+    ctaLabel: "Book a Brand Narrative Audit",
+    ctaUrl: "https://www.brandtelling.com/brand-narrative-audit"
   },
   governed: {
     diagnosis: "Your responses reflect a firm that has done the work. The risk at this stage is not collapse — it's quiet decay. Governance compounds or erodes; it does not hold still.",
-    pathTitle: "Recommended Next Step: Install and Govern the Story Operating System",
+    pathTitle: "Recommended Next Step: Brand Management Subscription",
     pathBody: "Your Story OS appears largely documented and structured. Sustained leverage depends on governance. The Brandtelling® Brand Management Subscription installs ownership, oversight, and narrative protection across the firm.",
     links: [],
     ctaText: "Clarity doesn't disappear. It decays when it isn't governed. Ongoing Brand Management ensures what you've built continues to strengthen as your firm scales.",
