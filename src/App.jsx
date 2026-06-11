@@ -135,7 +135,7 @@ export default function App() {
 
         {/* Masthead */}
         <div style={{ fontFamily: "'Cormorant Garamond', serif", fontSize: 12, letterSpacing: "0.24em", textTransform: "uppercase", color: gold, marginBottom: 52, display: "flex", alignItems: "center", gap: 14 }}>
-          Brandtelling® Story OS Diagnostic
+          Brandtelling® Story OS Diagnostic (v3)
           <div style={{ flex: 1, height: 1, background: "linear-gradient(to right, rgba(197,163,94,0.35), transparent)" }} />
         </div>
 
